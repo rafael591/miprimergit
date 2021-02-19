@@ -19,7 +19,5 @@ public class MiPrimerGitHub {
         String nombre = "Rafael Moreno";
         String matricula = "60066";
         System.out.println(" Soy " + nombre + " y mi matricula es " + matricula);
-        
-        System.out.println("hola mundo");
     }  
 }
