@@ -7,7 +7,7 @@ package miprimergithub;
 
 /**
  *
- * @author rafae
+ * @author rafael moreno
  */
 public class MiPrimerGitHub {
 
@@ -16,6 +16,8 @@ public class MiPrimerGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+        String nombre = "Rafael Moreno";
+        String matricula = "60066";
+        System.out.println(" Soy " + nombre + " y mi matricula es " + matricula);
+    }  
 }
